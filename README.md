@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
 
-<h1 width="100">Hey There! I'm <a href="https://www.linkedin.com/in/shivam-bhatt-302631282/">Shivam Bhatt</a> :sunglasses: (The Boulder 🪨)</h1> 
+<h1 width="100">Hey There! I'm <a href="https://www.linkedin.com/in/shivam-bhatt-302631282/">Shivam Bhatt</a> :sunglasses: </h1> 
 
 <img src="https://komarev.com/ghpvc/?username=ansh-sarkar&label=Profile%20views&color=FF8C00&style=for-the-badge" alt="Ansh-Sarkar" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ansh-Sarkar?label=followers&style=for-the-badge">
 
